@@ -370,3 +370,6 @@ MIT License - see [LICENSE](LICENSE) file
 **Made with ❤️ for the decentralized future**
 
 🛡️ **ChainShield** - Insurance Without Intermediaries
+
+---
+Built by [Harshal Gandhi](https://www.harshalgandhi.com), Co-Founder & CEO of [Ospyr Ventures](https://ospyrventures.com).
